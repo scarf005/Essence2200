@@ -342,7 +342,7 @@
     ],
     "magazine_well": "250 ml",
     "magazines": [ [ "Fox9mmSGA", [ "FoxSGA9mmmag" ] ], [ "9mm", [ "FoxSGA9mmmag" ] ] ],
-    "flags": [ "NEVER_JAMS", "NON-FOULING", "NEEDS_NO_LUBE" ]
+    "flags": [ "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ]
   },
   {
     "id": "FoxSeburoC37",
@@ -378,7 +378,7 @@
     ],
     "magazine_well": "500 ml",
     "magazines": [ [ "Fox9mmSGA", [ "FoxSeburoC37mag" ] ], [ "9mm", [ "FoxSeburoC37mag" ] ] ],
-	"flags": [ "NEVER_JAMS", "NON-FOULING", "NEEDS_NO_LUBE" ]
+	"flags": [ "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ]
   },
   {
     "id": "FoxSeburoS7",
@@ -413,7 +413,7 @@
     ],
     "magazine_well": "500 ml",
     "magazines": [ [ "Fox9mmSGA", [ "FoxSeburoC37mag" ] ], [ "9mm", [ "FoxSeburoC37mag" ] ] ],
-    "flags": [ "NEVER_JAMS", "NON-FOULING", "NEEDS_NO_LUBE" ]
+    "flags": [ "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ]
   },
   {
     "id": "FoxArakawaR7",
@@ -434,7 +434,7 @@
     "dispersion": 250,
     "blackpowder_tolerance": 99,
     "magazines": [ [ "Fox44magnumSGA", [ "Fox44_speedloader6" ] ], [ "44", [ "44_speedloader6" ] ] ],
-    "flags": [ "NEVER_JAMS", "NON-FOULING", "NEEDS_NO_LUBE" ],
+    "flags": [ "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ],
     "valid_mod_locations": [
       [ "accessories", 2 ],
       [ "barrel", 1 ],
@@ -467,7 +467,7 @@
     "dispersion": 180,
     "durability": 6,
     "min_cycle_recoil": 1350,
-    "flags": [ "NEVER_JAMS", "NON-FOULING", "NEEDS_NO_LUBE" ],
+    "flags": [ "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ],
     "modes": [ [ "DEFAULT", "semi", 1 ], [ "BURST", "Burst", 3 ], [ "AUTO", "Auto", 5 ] ],
     "magazines": [
       [
@@ -537,7 +537,7 @@
       [ "stock", 1 ],
       [ "underbarrel mount", 1 ]
     ],
-    "flags": [ "RELOAD_ONE", "NEVER_JAMS", "NON-FOULING", "NEEDS_NO_LUBE" ]
+    "flags": [ "RELOAD_ONE", "NEVER_JAMS", "NON_FOULING", "NEEDS_NO_LUBE" ]
   },
   {
     "id": "FoxSGAgrenade",
